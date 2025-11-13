@@ -39,5 +39,5 @@
 
 Важно: Шрифт нужен с поддержкой кирилицы.
 
-На Render в "Start Command" нужно указать:
+На Render в "Start Command" нужно указать: 
 uvicorn main:app --host 0.0.0.0 --port $PORT
